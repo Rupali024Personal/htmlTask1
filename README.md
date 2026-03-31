@@ -7,10 +7,10 @@ This HTML project displays "Hello World!" message on the webpage.
 ## File Contents
 
 - <!doctype html> : Defines document type
-- <html> : Root element
-- <head> : Includes the title of the webpage
-- <body> : Includes content of the page
-- <h1>   : Includes the heading  "Hello World!"
+- html tag : Root element
+- head tag : Includes the title of the webpage
+- body tag : Includes content of the page
+- h1 tag   : Includes the heading  "Hello World!"
 
 
 ## Run the code
